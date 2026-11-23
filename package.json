@@ -1,6 +1,6 @@
 {
   "name": "@viateai/plugin-xai-oauth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Viate provider for the xAI API via Grok CLI OAuth.",
   "license": "MIT",
   "private": false,
